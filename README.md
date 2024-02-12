@@ -8,6 +8,7 @@ Code and utilities to use USB game controllers, HOTAS and joysticks on Linux and
 - mavlink.py : (not really related, but anyway) Print mavlink messages coming from serial port
 
 Disclaimer: Not tested on a live vehicle. MissionPlanner can see the PPM values which indicates that the Arduino can behave like a TX
+Disclaimer 2: I'm not the world's neatest programmer and definitely not an expert in Python.
 
 TODO: See if this can work with a trainer port (PPM input) or something like a TX module that takes a PPM input.
 
