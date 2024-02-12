@@ -15,7 +15,7 @@ No support for telemtry return.
 
 Usage:
 
-- Load ppm-1.ino onto an Arduino. I used an Uno.
+- Load ppm-1.ino onto an Arduino. I used an Uno. Only need signal and ground to go to the module or TX.
 - Run js_list.py and work out the names of the controllers and the axes/buttons.
 - Build config.json.
 - Run js_arduino.py and life should be good.
