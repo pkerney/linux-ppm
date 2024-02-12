@@ -8,4 +8,3 @@ Code coming
 - js_arduino.py : Main Python app that read a config file and then listens for the joystick events and sends values to the Arduino
 - config.json : Example config file
 - mavlink.py : (not really related, but anyway) Print mavlink messages coming from serial port
-- 
