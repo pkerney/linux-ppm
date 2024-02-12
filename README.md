@@ -6,3 +6,4 @@ Code coming
 - Utility to list all the Joystick devices as well as axes and buttons per device.
 - Arduino sketch to accept serial commands to set channel outputs
 - Main Python app that read a config file and then listens for the joystick events and sends values to the Arduino
+- Example config file
