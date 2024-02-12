@@ -13,7 +13,10 @@ Disclaimer: Not tested on a live vehicle. MissionPlanner can see the PPM values 
 Disclaimer 2: I'm not the world's neatest programmer and definitely not an expert in Python.
 
 TODO: See if this can work with a trainer port (PPM input) or something like a TX module that takes a PPM input.
-TODO 2: Dig up attributions for other stolen code. (I'm sure you know how it is, just find something, cut/paste, lose original link)
+
+TODO 2: Dig up attributions for other stolen code. (I'm sure you know how it is, just find something that looks vaguley like you need, cut/paste, lose original link)
+
+TODO 3: Add things like log levels, etc.
 
 Usage:
 
