@@ -1,0 +1,48 @@
+{
+    "arduino": {
+        "port": "/dev/ttyUSB0",
+        "baud": 115200
+    },
+    "channels": [
+        {
+            "channel": 1,
+            "device": "Mad Catz Saitek Pro Flight X-56 Rhino Stick",
+            "name": "x"
+        },
+        {
+            "channel": 2,
+            "device": "Mad Catz Saitek Pro Flight X-56 Rhino Stick",
+            "name": "y"
+        },
+        {
+            "channel": 3,
+            "device": "Mad Catz Saitek Pro Flight X-56 Rhino Throttle",
+            "name": "y"
+        },
+        {
+            "channel": 4,
+            "device": "Mad Catz Saitek Pro Flight X-56 Rhino Stick",
+            "name": "rz"
+        },
+        {
+            "channel": 5,
+            "device": "Mad Catz Saitek Pro Flight X-56 Rhino Stick",
+            "name": "trigger"
+        },
+        {
+            "channel": 6,
+            "device": "Mad Catz Saitek Pro Flight X-56 Rhino Stick",
+            "name": "thumb"
+        },
+        {
+            "channel": 7,
+            "device": "Mad Catz Saitek Pro Flight X-56 Rhino Stick",
+            "name": "thumb2"
+        },
+        {
+            "channel": 8,
+            "device": "Mad Catz Saitek Pro Flight X-56 Rhino Stick",
+            "name": "pinkie"
+        }
+    ]
+}
