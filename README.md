@@ -1,7 +1,11 @@
 # linux-ppm
 Code and utilities to use USB game controllers, HOTAS and joysticks on Linux and use a serial connected Arduino to generated PPM signals to feed to radio control systems like Ardupilot and iNAV
 
-No support for telemtry return.
+UPDATE:
+I have moved over to Windows (because getting Mission Planner to work on Linux is awful) so stand by for another repository. I have a much improved version coming. It not only supports axis and button inputs, I have also implemented rotary encoders and 3-way switches (like you find on transmitters). I did this as I have these devices available for my flight simulator setup.
+Additionally, I have tested it with an actual FrSky Taranis X9D+ TX radio with the Arduino going 12 channel PPM to the trainer input port and an RX connected via SBUS into a flight controller. So the other project and probably this one (in theory) is all good to go.
+
+No support for telemetry return.
 
 - js_list.py : Utility to list all the Joystick devices as well as axes and buttons per device.
 - ppm-1.ino : Arduino sketch to accept serial commands to set channel outputs
