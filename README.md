@@ -7,7 +7,7 @@ I have moved over to Windows (because getting Mission Planner to work on Linux i
 
 I have a much improved version coming for Windows. It not only supports axis and button inputs, I have also implemented rotary encoders and 3-way switches (like you find on transmitters). These are generally implemented with multiple buttons inputs. I did this as I have these devices available for my flight simulator setup.
 
-Additionally, I have tested it with an actual FrSky Taranis X9D+ TX radio with the Arduino going 12 channel PPM to the trainer input port and a FrSky X4R RX connected via SBUS into a flight controller. So the other project and probably this one (in theory) is all good to go.
+Additionally, I have tested it with an actual FrSky Taranis X9D+ TX radio with the Arduino going 8 channel PPM to the trainer input port and a FrSky X4R RX connected via SBUS into a flight controller. So the other project and probably this one (in theory) is all good to go.
 
 END UPDATE:
 
